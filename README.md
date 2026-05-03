@@ -1,7 +1,7 @@
 # Python_project_Assignment
-# Name:
-# App No:
-# sec:
+# Name:jammala saitagore
+# App No:1406
+# sec4
 
 # 🧮 Python CLI Calculator
 
